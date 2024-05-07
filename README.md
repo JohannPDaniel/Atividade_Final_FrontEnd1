@@ -29,10 +29,10 @@ Em resumo, este site é uma ferramenta eficaz para Johann apresentar sua identid
 ## Técnologias usadas:
 
 <div style="display: flex; gap: 5px">
-    <img src="./Avaliacao_Johann/images/html.jpg" style="width:100px">
-    <img src="./Avaliacao_Johann/images/css.jpg" style="width:100px; height: 33px">
-    <img src="./Avaliacao_Johann/images/vsCode.jpg" style="width:150px; height: 33px">
-    <img src="./Avaliacao_Johann/images/git.jpg" style="width:67px;">
-    <img src="./Avaliacao_Johann/images/github.jpg" style="width:90px;">
+    <img src="./images/html.jpg" style="width:100px">
+    <img src="./images/css.jpg" style="width:100px; height: 33px">
+    <img src="./images/vsCode.jpg" style="width:150px; height: 33px">
+    <img src="./images/git.jpg" style="width:67px;">
+    <img src="./images/github.jpg" style="width:90px;">
 </div>
 
